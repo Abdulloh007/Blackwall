@@ -436,6 +436,7 @@ nav{
     }
     .m-art svg {
         width: 120%;
+        height: auto;
         margin-left: -20%;
     }
     /* Collaborate Section */
